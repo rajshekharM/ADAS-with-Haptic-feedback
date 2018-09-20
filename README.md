@@ -1,4 +1,4 @@
-# ADAS-with-Haptic-feedback
+# ADAS with Multi-modal and Haptic-feedback
 Multi-modal feedback for driver assisted systems in Autonomous driving
 
 This work claims of setting up an immersive, responsive vehicle driving system and mechanism for a
